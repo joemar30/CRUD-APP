@@ -1,6 +1,3 @@
-cd C:\Users\Acer\Desktop\crud-app
-
-@'
 # StockManager - Full Stack CRUD Application
 
 A modern, responsive full-stack web application for inventory management with user authentication and role-based access control.
